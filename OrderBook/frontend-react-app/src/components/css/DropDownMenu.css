@@ -1,0 +1,23 @@
+#Open-Menu-Button {
+    font-size: 1.5vw;
+    color: #00a8cc;
+}
+
+#simple-menu {
+    /* font-size: 1vw; */
+    /* background-color: darkorange; */
+}
+/* 
+#Whole-Menu {
+    background-color: darkorange;
+} */
+#Menu-Item1,
+#Menu-Item2,
+#Menu-Item3 {
+    font-size: 2vw;
+    /* background-color: rgb(255, 217, 181); */
+}
+
+#Menu-Icon {
+    font-size: 2.5vw;
+}

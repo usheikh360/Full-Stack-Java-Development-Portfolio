@@ -1,0 +1,39 @@
+.currency-buttons{
+    margin-left: 15px;
+    width: 200px;
+}
+
+.make-puechase-button, .change-return-button{
+  margin-left: 125px;
+  width: 200px;
+}
+
+.menu-title{
+  font-size: 20px;
+  margin-left: 180px;
+}
+
+.menu-title-item{
+  font-size: 20px;
+}
+
+
+.item-card{
+  text-align: center;
+}
+
+.item-id-on-card{
+  text-align: left;
+}
+
+*{ 
+   background-color: #282c34; 
+   color: wheat;
+   font-family:Courier;
+   font-weight: normal;
+} 
+
+hr{
+  background-color: white; 
+}
+

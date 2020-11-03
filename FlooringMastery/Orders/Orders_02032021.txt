@@ -1,0 +1,5 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+4::mary jane::CA::25.00::Carpet::100.00::2.25::2.10::225.00::210.00::108.75::543.75
+5::jenny::CA::25.00::Tile::109.00::3.50::4.15::381.50::452.35::208.46::1042.31
+6::Tony::WA::9.25::Carpet::100.00::2.25::2.10::225.00::210.00::40.24::475.24
+7::wick::TX::4.45::Carpet::1022.00::2.25::2.10::2299.50::2146.20::197.83::4643.53

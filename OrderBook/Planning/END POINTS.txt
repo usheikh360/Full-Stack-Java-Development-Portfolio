@@ -1,0 +1,39 @@
+LOGIN PAGE
+
+	- @GET {username, password} login returns either error or success [CUSTOM UserInfoDao- getByUsername]							UserInfo
+
+	- @POST {username, password} newUser returns success or error(existing user/ WEAK password) [DEFAULT UserInfoDao]					UserInfo
+
+
+ORDER BOOK
+
+	- @POST / addOrder
+
+	- @GET /buyAll getBuy returns all buy orders incomplete {symbol,mpid,price,size,time}									Orders
+	  [CUSTOM OrdersDao- where enum=buy and complete=false]
+
+	- @GET /sellALL getSell returns all sell orders incomplete {symbol,mpid,price,size,time}								Orders
+	  [CUSTOM OrdersDao - where enum=sell and complete=false]	
+
+	- @GET /spread getSpread {symbol} returns the spread													Orders
+	  [CUSTOM OrderDao -two queries to get min ask and max bid whereSymbol = symbol and then calculate the price difference]
+
+	- @POST /trade tradeOrders {orderid, orderid}[(Buy,Sell)] creates a trade If sucess mark orders as complete						Trades
+	  [DEFAULT TradeDao - adds a row to the trade table ??]
+					
+	- @POST /delete deleteOrder {orderid} [DEFAULT OrdersDao]												Orders
+
+	- @PUT /editOrder editOrder {size,mpid,price,buyorsell,orderid} edits a specific order return error if input is wrong					Orders
+	[DEFAULT OrdersDao]
+	
+	
+	- @GET /meta getMeta {orderid} returns a stocks metadata [DEFAULT StockDao]										Stocks
+	- @GET /symbols getSymbols returns incomplete symbols {symbol} from metadata table 									Stoc
+	  [CUSTOM StockDao -getIncompleteStocks JOIN on orders where complete = false]
+
+	
+Trade History
+
+	- @GET /history getHistory returns all historic trades [Default OrdersDao]										Trades
+
+	

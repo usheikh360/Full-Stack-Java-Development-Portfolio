@@ -1,0 +1,25 @@
+#Footer {
+    font-size: 1vw;
+    /* display: block; */
+    position: fixed;
+
+    margin-bottom: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* min-height: calc(100% - 285px); */
+    /* height: 1vw; */
+    background-color: #005082;
+    color: WHITE;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    /* flex-direction: row; */
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Icon {
+    font-size: 10vw;
+}

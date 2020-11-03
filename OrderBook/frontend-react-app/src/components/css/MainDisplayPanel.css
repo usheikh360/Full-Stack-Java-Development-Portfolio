@@ -1,0 +1,14 @@
+#MainDisplayPanel {
+    width: 60vw;
+    height: 45vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    /* background-color: orange; */
+    /* background-color: #1a1c20; */
+    background-color: #133b5c;
+    /* background-color: #00416d; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 3vw;
+}

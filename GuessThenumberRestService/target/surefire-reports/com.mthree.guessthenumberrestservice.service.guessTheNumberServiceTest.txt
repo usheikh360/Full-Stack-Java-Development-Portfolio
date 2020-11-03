@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mthree.guessthenumberrestservice.service.guessTheNumberServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.835 s - in com.mthree.guessthenumberrestservice.service.guessTheNumberServiceTest

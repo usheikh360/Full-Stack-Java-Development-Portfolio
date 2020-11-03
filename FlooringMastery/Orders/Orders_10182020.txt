@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+11::Hannah Smith::TX::4.45::Tile::301.00::3.50::4.15::1053.50::1249.15::102.47::2405.12

@@ -1,0 +1,24 @@
+#Ticker {
+    font-size: 1.2vw;
+    /* background-color: #127681; */
+    overflow: hidden;
+    border-bottom: 0.1vw solid #ffc045;
+}
+
+#Ticker-Item {
+    animation: moving 45s linear infinite;
+    white-space: nowrap;
+    color: #ffc045;
+    /* overflow: hidden; */
+
+    /* position: relative; */
+}
+
+@keyframes moving {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}

@@ -1,0 +1,7 @@
+1::KitKat::0.65::0
+2::Walkers Ready Salted Crisp::1.50::13
+3::Walkers Cheese and Onion Crisp::1.50::0
+4::Walkers Salt and vinegar Crisp::1.50::4
+5::Powerade::2.00::4
+6::Lucozade Orange::1.50::4
+7::Bottle of Water::1.50::2

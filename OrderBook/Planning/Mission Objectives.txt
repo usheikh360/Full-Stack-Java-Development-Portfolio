@@ -1,0 +1,32 @@
+PRIMARY
+1- User Portal - login database plus UI 
+
+2- Create an orderbook that the user can VIEW
+	-Buys on the left with the most expensive bid at the top
+        -Offers on the right with the lowest bid at the top
+
+	-be able to fetch orders from the orderbook
+
+[Example in Equity powerpoint slide]
+
+3- Functionality of the orderbook
+	- create trades - matching orders to finalise a transaction
+
+	- match orders - match a buy and sell order
+	- delete orders - delete a buy or sell order
+ 	- ** edit/update orders
+
+4 - Trade History + Order History VIEW
+ 
+
+	
+
+
+GOLDPLATING
+4 - A ticker feed displaying trades
+
+5 - Audit log file, stating which user did what
+
+6 - Number of matchable orders displayed to user
+
+7 - filter order book by stock eg dropdown / GOOG

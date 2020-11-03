@@ -1,0 +1,74 @@
+.Login-Form {
+    background-color: wheat;
+    height: 15vw;
+    width: 40vw;
+    margin-top: 4vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 8%;
+}
+#New-User-Button {
+    text-align: left;
+    font-size: 1.2vw;
+    color: wheat;
+    text-decoration: underline;
+    position: relative;
+}
+
+#Form-And-New-User-Button {
+    text-align: left;
+    width: 50vw;
+}
+
+#Logo {
+    height: auto;
+    width: 20vw;
+    position: relative;
+    cursor: pointer;
+    display: block;
+    float: right;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+#Sign-In-Header {
+    font-size: 10vw;
+    position: relative;
+    right: 25%;
+    color: goldenrod;
+}
+#Main-Body {
+    background-color: #133b5c;
+    min-height: 125vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#Login-Button {
+    font-size: 2vw;
+    margin-top: 1vw;
+    background-color: #133b5c;
+    color: wheat;
+}
+
+#Copyright-Footer {
+    position: relative;
+    top: 3.5vw;
+    right: 3vw;
+    font-size: 0.5vw;
+    width: 25%;
+}
+
+.Response-Show {
+    font-size: 2vw;
+    display: inline;
+    color: red;
+}
+
+.Response-Hide {
+    display: none;
+}

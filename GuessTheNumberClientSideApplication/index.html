@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>GUESS THE NUMBER GAME</h1> 
+    <div class="split left">
+        <button type="submit" onclick="getAllGames()"> Display all games</button>
+        <br>
+        <br>
+        <button type="submit" onclick="beginGame()" width = "400px">Begin the game</button>
+        <form id = "guessForm">
+            <br>
+            <br>
+            <input id = "gameId" type="number" placeholder="Enter game id">
+            <input id = "guess" type="text" placeholder="Enter guess">
+            <input type="button" value="Submit guess" onclick="addUsersGuess()"> 
+        </form> 
+        <form id = "specifcGameForm">
+            <br>
+            <br>
+            <input id = "gameId" type="number" placeholder="Enter game id">
+            <input type="button" value="Get game by game id" onclick="getGameById()"> 
+        </form> 
+
+        <form id = "roundsForSpecificGames">
+            <br>
+            <br>
+            <input id = "gameId" type="number" placeholder="Enter game id">
+            <input type="button" value="Retrieve rounds by gameId" onclick="getRoundsByGameId()"> 
+            </form>   
+      </div>
+      
+      <div class="split right">
+          <table>
+    <thead id="tableHeadings">
+    </thead>
+    <tbody id="allGames"></tbody>
+  </table>
+    <div id = "newGameInfoOrErrorMessage"></div> 
+    <!-- newGameInfoOrErrorMessage div displays the new gameId when created or an error message when an invalid guess is enterd  -->
+    </div>   
+    
+<script src="script.js"> </script>
+</body>
+</html>

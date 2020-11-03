@@ -1,0 +1,51 @@
+*{
+    margin-bottom: 0px; /* used to seprate various html elments from each other, so could be used instead of the break keyword to make a gap between forms */ 
+    background-color: rosybrown;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+button { 
+
+    height: 20px; 
+    width: 153px; 
+}
+
+table,th,td {
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+}
+
+/* overflow is visible by default, if you set it to hidden the text overflowing outside of the div will disapear */
+ .split {
+    height: 100%;
+    width: 50%;
+    position: fixed; /* An element with position: fixed; is positioned relative to the viewport, which means it always stays 
+    in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element. 
+    ----------SO BASICALLY THAT'S WHAT PREVENTS THE MENU FROM BEING GOING OUT OF THE VIEW PORT------------------*/ 
+    overflow-x: hidden; /* SO OVERFLOW-X HIDDEN BASICALLY PREVENTS YOU FROM SCROLLING HORIOZNTALLY */ 
+    /* overflow: scroll; will prevent from scrolling horizontaly for text 
+    overflow: auto; will allow you to scroll horizontally */
+    /* NEED THE ABOVE FOR SCROLLING */
+    padding-top: 20px;
+    height: 680px;
+} 
+      
+.left {
+    left: 150px;
+    top: 30%; 
+  }
+      
+.right {
+    /* right: 200px; */
+    /* right: 0px; The right property affects the horizontal position of a positioned element. This property has no effect on non-positioned elements. */
+    right :0;
+    /* When position is set to absolute or fixed, the right property  */
+    /* specifies the distance between the element's right edge and the right edge of its containing block. */
+
+ }
+      

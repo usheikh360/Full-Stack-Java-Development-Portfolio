@@ -1,0 +1,55 @@
+.TopPanel {
+    background-color: #005082;
+    color: #ffa41b;
+
+    height: 4.5vw;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: space-around;
+    /* display: flex-end; */
+}
+
+#Sign-Out-Button {
+    font-size: 1.5vw;
+    color: #00a8cc;
+    border-color: #ffa41b;
+    border-radius: 0.2vw;
+    /* background-color: rgb(255, 217, 181); */
+}
+#Exit-Icon {
+    font-size: 2vw;
+}
+#Current-Logged-In-User-Card {
+    background-color: #0c2233;
+    font-size: 1.5vw;
+    color: #ffa41b;
+    white-space: nowrap;
+    overflow: hidden;
+    /* height: 4vw; */
+}
+
+#Clock {
+    background-color: #0c2233;
+    font-size: 1.5vw;
+    /* margin-left: 1%; */
+    /* height: 6.5vw; */
+    padding: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    color: #ffa41b;
+}
+
+#MenuButton {
+    /* font-size: 45px;
+    margin-left: 50px; */
+}
+
+#Button {
+    display: flex;
+
+    align-items: left;
+    justify-content: left;
+    color: #ffa41b;
+}

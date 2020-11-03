@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+9::Timothy::TX::4.45::Carpet::101.00::2.25::2.10::227.25::212.10::19.55::458.90

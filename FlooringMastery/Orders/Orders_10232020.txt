@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+12::Hnery Smith::WA::9.25::Tile::700.00::3.50::4.15::2450.00::2905.00::495.34::5850.34

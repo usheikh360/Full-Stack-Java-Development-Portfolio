@@ -1,0 +1,27 @@
+#FeedbackPanel {
+    width: 25vw;
+    height: 30vw;
+    background-color: #133b5c;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 3vw;
+}
+
+#Feedback-Message {
+    background-color: #005082;
+    color: #ffa41b;
+}
+#FeedbackPanel-Area {
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+#Spead-Message {
+    margin-top: 2vw;
+    background-color: #005082;
+    color: #00a8cc;
+    font-size: 2vw;
+}

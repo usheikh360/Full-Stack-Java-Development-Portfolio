@@ -1,0 +1,5 @@
+2020-10-17T22:38:35.019247 : Retrieved all products
+2020-10-17T22:38:39.365903 : Retrieved all states
+2020-10-17T22:38:42.153185 : Searched for state WA
+2020-10-17T22:38:45.167151 : The Current details of order number #12 are: 10-23-2020: #Hnery Smith WA 9.25 Tile 700.00 3.50 4.15 2450.00 £2905.00 495.34 5850.34 
+2020-10-17T22:38:48.474712 : Back up of all active orders (orders that have not been removed) made.

@@ -1,0 +1,71 @@
+/* .MuiTextField-root {
+            margin: 1px;
+            width: 25ch
+}
+
+.marginForForm {
+        margin: 5px;
+        padding: 1px;
+}
+
+TextField {
+        width: 25ch;
+} */
+/* * {
+    margin-bottom: 7px;
+    margin-top: 7px;
+} */
+
+#myform {
+    font-size: 5.5vh;
+}
+
+.Symbol-Title {
+    position: relative;
+
+    text-align: left;
+    font-size: 1vw;
+}
+
+.MuiFormControl-root {
+    /* width: 80%; */
+    width: 25ch;
+    margin: 1.4px;
+}
+OutlinedInput {
+    width: 80%;
+}
+
+.radioActions {
+    /* margin-bottom: 0; */
+}
+
+.MuiFormHelperText-root.Mui-error {
+    color: red;
+}
+
+.myform {
+    color: wheat;
+}
+
+/* const useStyles = makeStyles((theme) => ({
+    root: {
+        '& .MuiTextField-root': {
+            margin: theme.spacing(1),
+            width: '25ch',
+        },
+    },
+    root2: {
+        display: 'flex',
+        flexWrap: 'wrap',
+    },
+    margin: {
+        margin: theme.spacing(1),
+    },
+    withoutLabel: {
+        marginTop: theme.spacing(3),
+    },
+    textField: {
+        width: '25ch',
+    },
+})); */

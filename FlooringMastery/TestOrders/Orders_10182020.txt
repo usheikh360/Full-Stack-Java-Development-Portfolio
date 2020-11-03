@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+2::Mary::CA::25.00::Tile::120.00::3.50::4.15::420.00::498.00::229.50::1147.50

@@ -1,0 +1,3 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total::OrderDate
+1::Jhon::TX::4.45::Wood::149.00::5.15::4.75::767.35::707.75::65.64::1540.74::10-19-2020
+2::Mary::CA::25.00::Tile::120.00::3.50::4.15::420.00::498.00::229.50::1147.50::10-19-2020

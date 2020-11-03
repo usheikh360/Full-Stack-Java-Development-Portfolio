@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+10::Johny::WA::9.25::Carpet::200.00::2.25::2.10::450.00::420.00::80.48::950.48

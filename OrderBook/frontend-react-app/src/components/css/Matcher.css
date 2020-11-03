@@ -1,0 +1,63 @@
+.Matcher-Text {
+    font-size: 1vw;
+    color: wheat;
+    text-align: left;
+    /* height: vw; */
+}
+.Order-Details {
+    text-align: left;
+}
+#Matcher-Card-Area {
+    width: 40vw;
+}
+
+#Matcher-Card {
+    background-color: #133b5c;
+}
+
+.pointer {
+    cursor: pointer;
+}
+#Edit-Icon {
+    font-size: 100vw;
+}
+#Matcher-Container {
+    display: flex;
+    justify-content: space-between;
+    /* flex-direction: column; */
+    align-items: center;
+}
+
+#Trade-Button {
+    /* position: absolute; */
+    /* display: block; */
+    font-size: 2.5vw;
+    background-color: #000839;
+    color: #00a8cc;
+}
+#Trade-Button:hover {
+    color: #ffa41b;
+    font-size: 3vw;
+}
+.Order-Header {
+    font-size: 2vw;
+    /* position: relative;
+    right: 25%; */
+}
+#Sell-Header {
+    /* position: relative;
+    left: 25%; */
+    text-align: right;
+    /* text-decoration: underline; */
+}
+#Sell-Order-Details {
+    text-align: right;
+}
+/* 
+#vl {
+    border-left: 6px solid green;
+    height: 50px;
+    display: block;
+    z-index: 5;
+    position: relative;
+} */

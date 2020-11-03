@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+8::Ada Lovelace::TX::4.45::Carpet::109.00::2.25::2.10::245.25::228.90::21.10::495.25
