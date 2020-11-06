@@ -2,7 +2,7 @@
 
 A selection of some of my projects that I have completed whilst training as a Full Stack Java Developer with mthree and The Software Guild as part of the mthree Aspire Scholarship Programme.
 
-Modules covered in the course:
+Modules covered in the Bootcamp:
 
 # Java #
 
