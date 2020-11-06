@@ -4,7 +4,8 @@ A selection of some of my projects that I have completed whilst training as a Fu
 
 Modules covered in the course:
 
-Java
+#Java#
+
 ¬	Hello, World! CLI
 ¬	Programs, Statements, and Variables
 ¬	Collecting Console Input – Scanner
