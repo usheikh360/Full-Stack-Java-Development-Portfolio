@@ -4,7 +4,7 @@ A selection of some of my projects that I have completed whilst training as a Fu
 
 Modules covered in the course:
 
-#Java#
+# Java #
 
 ¬	Hello, World! CLI
 ¬	Programs, Statements, and Variables
@@ -35,7 +35,7 @@ Modules covered in the course:
 ¬	Maven
 ¬	Spring Project
 
-Relational Databases and SQL 
+# Relational Databases and SQL #
 ¬	Introduction to Relational Databases
 ¬	ACID Compliance
 ¬	Relational Design and Normalization
@@ -50,7 +50,7 @@ Relational Databases and SQL
 ¬	Grouping and Aggregates
 ¬	Subqueries and views
 
-Spring Boot REST with JDBC 
+# Spring Boot REST with JDBC #
 ¬	Spring Boot REST with JDBC Template
 ¬	JDBC
 ¬	JDBC Template
@@ -61,7 +61,7 @@ Spring Boot REST with JDBC
 ¬	Spring Boot REST Service
 ¬	Spring Boot REST Service with JDBC Template
 
-REST web services via jQuery 
+# REST web services via jQuery #
 ¬	Web Services
 ¬	Introduction to jQuery
 ¬	JSON
@@ -69,7 +69,7 @@ REST web services via jQuery
 ¬	REST API Design
 ¬	REST Project 
 
-Spring Boot Full Stack Web Apps 
+# Spring Boot Full Stack Web Apps #
 ¬	Spring Boot with Thymeleaf
 ¬	Spring Boot with JDBC Template
 ¬	DAO Implementations and Testing
