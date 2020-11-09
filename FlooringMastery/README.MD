@@ -3,7 +3,7 @@
 The goal of this mastery project was to create an application that can read, write, update and delete flooring orders.
 Please see the UML Class Diagrams and Flow Chart for an abstract view of the application.
 
-# The Application demonsteates an understanding of: #
+# The Application demonstrates an understanding of: #
 
 • MVC architecture, including the use of a service layer
 
