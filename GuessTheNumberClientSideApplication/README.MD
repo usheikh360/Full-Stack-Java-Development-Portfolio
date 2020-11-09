@@ -5,7 +5,7 @@ The number guessing game is known as known as "Bulls and Cows".
 
 This application uses uses a combination of JavaScript, HTML and CSS, and present the user with a clear interface for inputting guesses, and receiving feedback. 
 
-This work demonstrates the use of HTML and manipulation with JavaScript and styling with CSS.
+This work demonstrates the use of HTML, manipulation of HTML with JavaScript and styling with CSS.
 
 
 # The Application has the following features:
