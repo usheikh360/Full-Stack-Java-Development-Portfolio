@@ -2,7 +2,7 @@
 
 This goal of this project was to create an apllication that simulates a vending machine.
 
-# The Application demonsteates an understanding of:
+# The Application demonstrates an understanding of:
 
 • MVC pattern (App class, Controller, View, Service Layer, DAO) – this includes the use of constructor based dependency injection)
 
