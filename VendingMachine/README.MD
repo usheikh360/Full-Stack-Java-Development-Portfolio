@@ -1,6 +1,6 @@
 # Vending Machine
 
-This application simulates a vending machine.
+This goal of this project was to create an apllication that simulates a vending machine.
 
 # The Application demonsteates an understanding of:
 
@@ -17,8 +17,6 @@ This application simulates a vending machine.
 • Use of enums to represent the values of different coins
 
 • Use of an Audit DAO to log events and the time they occurred
-
-# This project 
 
 # The Application has the following features:
 
