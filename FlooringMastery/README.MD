@@ -15,7 +15,7 @@ Please see the UML Class Diagrams and Flow Chart for an abstract view of the app
 
 • Money handling using BigDecimal
 
-# The application can: #
+# The Application can: #
 
 • Create, Retrieve, Update and Delete orders.
 
