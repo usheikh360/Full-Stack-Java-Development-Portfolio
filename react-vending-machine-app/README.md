@@ -3,7 +3,7 @@
 
 This project demonstrate proficiency with React and REST APIs by building a dynamic user-interface consuming a REST API (maintained by The Software Guild).
 
-# The application demonstrats an understanding of:
+# The application demonstrates an understanding of:
 
 • Designing a front-end web applications with React
 
