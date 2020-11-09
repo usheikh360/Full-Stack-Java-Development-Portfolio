@@ -1,3 +1,38 @@
+# React Vending Machine App
+
+
+This project demonstrate proficiency with React and REST APIs by building a dynamic user-interface consuming a REST API (maintained by The Software Guild).
+
+# The application demonstrats an understanding of:
+
+• Designing a front-end web applications with React
+
+• Component design
+
+• Parent-child tree structure of components
+
+• Use of class and state properties
+
+# The Application has the following features:
+
+• Displaying Items - all items are populated using a REST API request and created dynamically from that call.
+
+• Adding Money - money is incremented by interacting with the 'Add $' buttons in the first form on the right hand side of the application.
+
+• Purchasing Items - after adding money and selecting an item, this submits a purchase to the REST API and display the response results.
+
+• Change Return - when the user purchases an item  the change is displayed automatically in the input field and then the user can  press the return change button    to simulate that they have collected the change, the return change button also clears the input fields of the form.
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
