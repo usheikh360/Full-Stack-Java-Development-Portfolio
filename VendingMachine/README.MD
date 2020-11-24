@@ -10,7 +10,7 @@ This goal of this project was to create an apllication that simulates a vending 
 
 • Use of BigDecimal for all monetary calculations where applicable
 
-• Use of application specific exceptions. The following application specific exceptions thrown by the Service Layer:
+• Use of application specific exceptions. The following application specific exceptions are thrown by the Service Layer:
    One that is thrown when the user tries to purchase an item but doesn’t deposit enough money (i.e. InsufficientFundsException).
    One that is thrown when the user tries to purchase an item that has zero inventory (i.e. NoItemInventoryException).
   
